@@ -1,0 +1,14 @@
+
+Thank you for your confidence.
+
+Build:
+Use QT creator to compile the source.
+
+Usage:
+./slice-app /home/r/image.png 100x100
+
+Output:
+slice_0x0.png
+slice_0x1.png
+slice_1x0.png
+slice_1x1.png
